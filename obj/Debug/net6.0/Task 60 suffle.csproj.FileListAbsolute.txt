@@ -1,0 +1,15 @@
+F:\Geekbrains\Programming\Homework\Task 60 suffle\bin\Debug\net6.0\Task 60 suffle.exe
+F:\Geekbrains\Programming\Homework\Task 60 suffle\bin\Debug\net6.0\Task 60 suffle.deps.json
+F:\Geekbrains\Programming\Homework\Task 60 suffle\bin\Debug\net6.0\Task 60 suffle.runtimeconfig.json
+F:\Geekbrains\Programming\Homework\Task 60 suffle\bin\Debug\net6.0\Task 60 suffle.dll
+F:\Geekbrains\Programming\Homework\Task 60 suffle\bin\Debug\net6.0\Task 60 suffle.pdb
+F:\Geekbrains\Programming\Homework\Task 60 suffle\obj\Debug\net6.0\Task 60 suffle.csproj.AssemblyReference.cache
+F:\Geekbrains\Programming\Homework\Task 60 suffle\obj\Debug\net6.0\Task 60 suffle.GeneratedMSBuildEditorConfig.editorconfig
+F:\Geekbrains\Programming\Homework\Task 60 suffle\obj\Debug\net6.0\Task 60 suffle.AssemblyInfoInputs.cache
+F:\Geekbrains\Programming\Homework\Task 60 suffle\obj\Debug\net6.0\Task 60 suffle.AssemblyInfo.cs
+F:\Geekbrains\Programming\Homework\Task 60 suffle\obj\Debug\net6.0\Task 60 suffle.csproj.CoreCompileInputs.cache
+F:\Geekbrains\Programming\Homework\Task 60 suffle\obj\Debug\net6.0\Task 60 suffle.dll
+F:\Geekbrains\Programming\Homework\Task 60 suffle\obj\Debug\net6.0\refint\Task 60 suffle.dll
+F:\Geekbrains\Programming\Homework\Task 60 suffle\obj\Debug\net6.0\Task 60 suffle.pdb
+F:\Geekbrains\Programming\Homework\Task 60 suffle\obj\Debug\net6.0\Task 60 suffle.genruntimeconfig.cache
+F:\Geekbrains\Programming\Homework\Task 60 suffle\obj\Debug\net6.0\ref\Task 60 suffle.dll
